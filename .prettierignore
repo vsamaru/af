@@ -1,0 +1,2 @@
+pnpm-lock.yaml
+apps/electron/layers/preload/preload.d.ts
